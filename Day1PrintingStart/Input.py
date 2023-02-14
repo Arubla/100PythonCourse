@@ -6,3 +6,5 @@ print("Nice to meet you " + name)
 #then print the concatenation
 print("Hello, " + 
 input("what is your friend's name?"))
+
+print(len(input("What is your mother's name?")))
